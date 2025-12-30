@@ -237,7 +237,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -457,7 +457,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -692,7 +692,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -927,7 +927,7 @@
     	    ],
     	    "tag": "dns",
     	    "hosts": {
-    		"www.kirtokhamenei.ir": [
+    		"www.salam-hamvatan.ir": [
     		    "8.8.8.8"
     		]
     	    },
