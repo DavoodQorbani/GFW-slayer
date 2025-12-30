@@ -1,7 +1,7 @@
 
 [
     {        
-        "remarks": "ATOMIC-XhTTP-DOH",
+        "remarks": "🆔🔥ATOMIC-XhTTP-DOH",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -17,7 +17,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan-jaan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -237,7 +237,7 @@
         "stats": {}
     },
     {
-        "remarks": "ATOMIC-XhTTP-DOH + Telegram via IP Proxy",
+        "remarks": "🆔🔥ATOMIC-XhTTP-DOH + Telegram via IP Proxy",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -253,7 +253,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": [
+            "www.salam-hamvatan-jaan.ir": [
                 "8.8.8.8"
             ]
             },
@@ -514,7 +514,7 @@
         "stats": {}
         },
     {        
-        "remarks": "ATOMIC-XhTTP-DOH-level-1",
+        "remarks": "🆔🔥ATOMIC-XhTTP-DOH-level-1",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -530,7 +530,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan-jaan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -771,7 +771,7 @@
         "stats": {}
     },
     {        
-        "remarks": "ATOMIC-XhTTP-DOH-GFW-resist",
+        "remarks": "🆔🔥ATOMIC-XhTTP-DOH-GFW-resist",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -787,7 +787,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan-jaan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -1028,7 +1028,7 @@
         "stats": {}
     },
     {
-        "remarks": "ATOMIC-XhTTP-DOH-irancell",
+        "remarks": "🆔🔥ATOMIC-XhTTP-DOH-irancell",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -1044,7 +1044,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": ["8.8.8.8"],
+            "www.salam-hamvatan-jaan.ir": ["8.8.8.8"],
                 "dns.nextdns.io": ["45.90.30.0","45.90.28.0"],
                 "unfiltered.joindns4.eu": ["86.54.11.200","86.54.11.100"],
                 "ada.openbld.net": ["146.112.41.102","146.112.41.2"],
@@ -1289,7 +1289,7 @@
         "stats": {}
     },
     {
-        "remarks": "ATOMIC-XhTTP-DOH-GFW-resist-2",
+        "remarks": "🆔🔥ATOMIC-XhTTP-DOH-GFW-resist-2",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -1306,7 +1306,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": ["8.8.8.8"],
+            "www.salam-hamvatan-jaan.ir": ["8.8.8.8"],
                 "dns.nextdns.io": ["45.90.30.0","45.90.28.0"],
                 "unfiltered.joindns4.eu": ["86.54.11.200","86.54.11.100"],
                 "ada.openbld.net": ["146.112.41.102","146.112.41.2"],
@@ -1597,7 +1597,7 @@
         "stats": {}
     },
     {
-        "remarks": "ATOMIC-XhTTP-DOH-GFW-resist-3",
+        "remarks": "🆔🔥ATOMIC-XhTTP-DOH-GFW-resist-3",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -1614,7 +1614,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": ["8.8.8.8"],
+            "www.salam-hamvatan-jaan.ir": ["8.8.8.8"],
                 "dns.nextdns.io": ["45.90.30.0","45.90.28.0"],
                 "unfiltered.joindns4.eu": ["86.54.11.200","86.54.11.100"],
                 "ada.openbld.net": ["146.112.41.102","146.112.41.2"],
@@ -1911,7 +1911,7 @@
         "stats": {}
         },
               {
-        "remarks": "ATOMIC-XhTTP-DOH-GFW-resist-telegram-proxy",
+        "remarks": "🆔🔥ATOMIC-XhTTP-DOH-GFW-resist-telegram-proxy",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -1928,7 +1928,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": ["8.8.8.8"],
+            "www.salam-hamvatan-jaan.ir": ["8.8.8.8"],
                 "dns.nextdns.io": ["45.90.30.0","45.90.28.0"],
                 "unfiltered.joindns4.eu": ["86.54.11.200","86.54.11.100"],
                 "ada.openbld.net": ["146.112.41.102","146.112.41.2"],
@@ -2267,7 +2267,7 @@
         "stats": {}
     },
     {
-        "remarks": "🖔ATOMIC-XhTTP-DOH-GFW-nogeo-full🖔",
+        "remarks": "🖔🆔🔥ATOMIC-XhTTP-DOH-GFW-nogeo-full🖔",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -2284,7 +2284,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": ["8.8.8.8"],
+            "www.salam-hamvatan-jaan.ir": ["8.8.8.8"],
                 "dns.nextdns.io": ["45.90.30.0","45.90.28.0"],
                 "unfiltered.joindns4.eu": ["86.54.11.200","86.54.11.100"],
                 "ada.openbld.net": ["146.112.41.102","146.112.41.2"],
