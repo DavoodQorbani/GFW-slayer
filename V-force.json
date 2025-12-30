@@ -17,7 +17,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -253,7 +253,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": [
+            "www.salam-hamvatan.ir": [
                 "8.8.8.8"
             ]
             },
@@ -530,7 +530,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -787,7 +787,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -1044,7 +1044,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": ["8.8.8.8"],
+            "www.salam-hamvatan.ir": ["8.8.8.8"],
                 "dns.nextdns.io": ["45.90.30.0","45.90.28.0"],
                 "unfiltered.joindns4.eu": ["86.54.11.200","86.54.11.100"],
                 "ada.openbld.net": ["146.112.41.102","146.112.41.2"],
@@ -1306,7 +1306,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": ["8.8.8.8"],
+            "www.salam-hamvatan.ir": ["8.8.8.8"],
                 "dns.nextdns.io": ["45.90.30.0","45.90.28.0"],
                 "unfiltered.joindns4.eu": ["86.54.11.200","86.54.11.100"],
                 "ada.openbld.net": ["146.112.41.102","146.112.41.2"],
@@ -1614,7 +1614,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": ["8.8.8.8"],
+            "www.salam-hamvatan.ir": ["8.8.8.8"],
                 "dns.nextdns.io": ["45.90.30.0","45.90.28.0"],
                 "unfiltered.joindns4.eu": ["86.54.11.200","86.54.11.100"],
                 "ada.openbld.net": ["146.112.41.102","146.112.41.2"],
@@ -1928,7 +1928,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": ["8.8.8.8"],
+            "www.salam-hamvatan.ir": ["8.8.8.8"],
                 "dns.nextdns.io": ["45.90.30.0","45.90.28.0"],
                 "unfiltered.joindns4.eu": ["86.54.11.200","86.54.11.100"],
                 "ada.openbld.net": ["146.112.41.102","146.112.41.2"],
@@ -2284,7 +2284,7 @@
             "10.10.34.36"
             ],
             "hosts": {
-            "www.kirtokhamenei.ir": ["8.8.8.8"],
+            "www.salam-hamvatan.ir": ["8.8.8.8"],
                 "dns.nextdns.io": ["45.90.30.0","45.90.28.0"],
                 "unfiltered.joindns4.eu": ["86.54.11.200","86.54.11.100"],
                 "ada.openbld.net": ["146.112.41.102","146.112.41.2"],
