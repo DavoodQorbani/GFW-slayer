@@ -1,6 +1,6 @@
 [
   {
-  "remarks": "ATOMIC-iran",
+  "remarks": "🆔🇮🇷ATOMIC-iran",
   "log": {
     "loglevel": "none",
     "access": "",
@@ -11,7 +11,7 @@
     "queryStrategy": "UseIPv4",
     "tag": "dns",
     "hosts": {
-      "www.kirtokhamenei.ir": [
+      "www.salam-hamvatan-jaan.ir": [
         "8.8.8.8"
       ]
     },
@@ -254,7 +254,7 @@
     "stats": {}
   },
   {
-  "remarks": "ATOMIC-iran-DOH",
+  "remarks": "🆔🇮🇷ATOMIC-iran-DOH",
   "log": {
     "loglevel": "none",
     "access": "",
@@ -265,7 +265,7 @@
     "queryStrategy": "UseIPv4",
     "tag": "dns",
     "hosts": {
-      "www.kirtokhamenei.ir": [
+      "www.salam-hamvatan-jaan.ir": [
         "8.8.8.8"
       ]
     },
