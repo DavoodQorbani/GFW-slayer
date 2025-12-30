@@ -1,6 +1,6 @@
 [
     {
-        "remarks": "Atomic-IR",
+        "remarks": "🆔🌍Atomic-IR",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -221,7 +221,7 @@
         "stats": {}
     },
     {
-        "remarks": "ATOMIC-GLOBAL-Android/windows-only",
+        "remarks": "🆔🌍ATOMIC-GLOBAL-Android/windows-only",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -237,7 +237,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan-jaan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -441,7 +441,7 @@
         "stats": {}
     },
     {
-        "remarks": "ATOMIC-XhTTP-new-era",
+        "remarks": "🆔🌍ATOMIC-XhTTP-new-era",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -457,7 +457,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan-jaan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -676,7 +676,7 @@
         "stats": {}
     },
     {
-        "remarks": "ATOMIC-XhTTP-DOH",
+        "remarks": "🆔🌍ATOMIC-XhTTP-DOH",
         "log": {
             "loglevel": "none",
             "access": "",
@@ -692,7 +692,7 @@
     		"10.10.34.36"
     	    ],
             "hosts": {
-                "www.kirtokhamenei.ir": [
+                "www.salam-hamvatan-jaan.ir": [
                     "8.8.8.8"
                 ]
             },
@@ -911,7 +911,7 @@
         "stats": {}
     },
     {
-    	"remarks": "ATOMIC-Force",
+    	"remarks": "🆔🌍ATOMIC-Force",
     	"log": {
     	    "loglevel": "none",
     	    "access": "",
@@ -927,7 +927,7 @@
     	    ],
     	    "tag": "dns",
     	    "hosts": {
-    		"www.kirtokhamenei.ir": [
+    		"www.salam-hamvatan-jaan.ir": [
     		    "8.8.8.8"
     		]
     	    },
